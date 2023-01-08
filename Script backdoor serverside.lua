@@ -68,7 +68,7 @@ local localPlayer = players.LocalPlayer;
 
 --// GLOBALS \\--
 local MAXTIMEOUT = 100;
-local TITLE = "backdoor.exe - v8.0.0";
+local TITLE = "StriikerZ Backdoors Serverside script - v1.0.0";
 local BACKDOOR_SOLVER = {};
 local BACKDOOR_FILTER = {};
 local URSTRING_TO_BACKDOOR = {};
